@@ -1,0 +1,12 @@
+main: com.motherland.battlebox.Main
+name: battlebox
+version: 0.0.1a
+author: b1n4ry
+
+commands:
+  Hello:
+  Launch:
+  MLCKit:
+  Ggledpog:
+  Blin:
+  Igsft:
